@@ -41,6 +41,6 @@ X: Unavailable authorized CC0 sample set.
 
 **Notes:**
 
-^1: Can be made with **Dexed**
-^2: Can be made with **setBfree**
-^3: Can be made with **Aeolus**
+- ^1: Can be made with **Dexed**
+- ^2: Can be made with **setBfree**
+- ^3: Can be made with **Aeolus**
